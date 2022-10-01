@@ -1,0 +1,3 @@
+# proje içerisinde bir terminal açıp "npm i" yapınız.
+# "nodemon index.js" ile projeyi çalıştırınız.
+# ilgili routelara istek atarak denemeler yapabilirsiniz

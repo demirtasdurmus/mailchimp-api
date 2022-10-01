@@ -1,0 +1,434 @@
+{
+  "templates": [
+    {
+      "id": 10021789,
+      "type": "user",
+      "name": "Teklifi e-posta Gönder (dynamic)",
+      "drag_and_drop": true,
+      "responsive": true,
+      "category": "",
+      "date_created": "2021-08-25T11:36:07+00:00",
+      "date_edited": "2021-08-26T12:12:34+00:00",
+      "created_by": "Ebru Tamer Uğur",
+      "edited_by": "Ebru Tamer Uğur",
+      "active": true,
+      "thumbnail": "https://mcusercontent.com/9f66693a03e03a575d19a73dc/template-screens/332641e7bf5d812b91585dc6ae1c1de4_10021789_screen.png",
+      "share_url": "",
+      "_links": [
+        {
+          "rel": "self",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021789",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Response.json"
+        },
+        {
+          "rel": "parent",
+          "href": "https://us1.api.mailchimp.com/3.0/templates",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        },
+        {
+          "rel": "delete",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021789",
+          "method": "DELETE"
+        },
+        {
+          "rel": "default-content",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021789/default-content",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Default-Content/Response.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        }
+      ]
+    },
+    {
+      "id": 10021501,
+      "type": "user",
+      "name": "Üyelik Sonlandırma",
+      "drag_and_drop": true,
+      "responsive": true,
+      "category": "",
+      "date_created": "2021-08-21T13:55:54+00:00",
+      "date_edited": "2021-08-26T12:47:07+00:00",
+      "created_by": "Ebru Tamer Uğur",
+      "edited_by": "Ebru Tamer Uğur",
+      "active": true,
+      "thumbnail": "https://mcusercontent.com/9f66693a03e03a575d19a73dc/template-screens/aa39593c981549ca4c3f85a5b5050a64_10021501_screen.png",
+      "share_url": "",
+      "_links": [
+        {
+          "rel": "self",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021501",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Response.json"
+        },
+        {
+          "rel": "parent",
+          "href": "https://us1.api.mailchimp.com/3.0/templates",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        },
+        {
+          "rel": "delete",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021501",
+          "method": "DELETE"
+        },
+        {
+          "rel": "default-content",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021501/default-content",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Default-Content/Response.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        }
+      ]
+    },
+    {
+      "id": 10021497,
+      "type": "user",
+      "name": "e-fatura",
+      "drag_and_drop": true,
+      "responsive": true,
+      "category": "",
+      "date_created": "2021-08-21T13:47:14+00:00",
+      "date_edited": "2021-08-26T14:05:26+00:00",
+      "created_by": "Ebru Tamer Uğur",
+      "edited_by": "Ebru Tamer Uğur",
+      "active": true,
+      "thumbnail": "https://mcusercontent.com/9f66693a03e03a575d19a73dc/template-screens/a63e09bec3533ab94fbb458e433fb716_10021497_screen.png",
+      "share_url": "",
+      "_links": [
+        {
+          "rel": "self",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021497",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Response.json"
+        },
+        {
+          "rel": "parent",
+          "href": "https://us1.api.mailchimp.com/3.0/templates",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        },
+        {
+          "rel": "delete",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021497",
+          "method": "DELETE"
+        },
+        {
+          "rel": "default-content",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021497/default-content",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Default-Content/Response.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        }
+      ]
+    },
+    {
+      "id": 10021493,
+      "type": "user",
+      "name": "Şifre Değiştirme Bilgilendirme /Üye girişi so",
+      "drag_and_drop": true,
+      "responsive": true,
+      "category": "",
+      "date_created": "2021-08-21T13:23:29+00:00",
+      "date_edited": "2021-08-26T12:51:55+00:00",
+      "created_by": "Ebru Tamer Uğur",
+      "edited_by": "Ebru Tamer Uğur",
+      "active": true,
+      "thumbnail": "https://mcusercontent.com/9f66693a03e03a575d19a73dc/template-screens/5c6b66b3d90fddf1c91aedd966cf7636_10021493_screen.png",
+      "share_url": "",
+      "_links": [
+        {
+          "rel": "self",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021493",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Response.json"
+        },
+        {
+          "rel": "parent",
+          "href": "https://us1.api.mailchimp.com/3.0/templates",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        },
+        {
+          "rel": "delete",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021493",
+          "method": "DELETE"
+        },
+        {
+          "rel": "default-content",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021493/default-content",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Default-Content/Response.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        }
+      ]
+    },
+    {
+      "id": 10021489,
+      "type": "user",
+      "name": "Üyelik Onay Kodu (Agent)",
+      "drag_and_drop": true,
+      "responsive": true,
+      "category": "",
+      "date_created": "2021-08-21T12:46:13+00:00",
+      "date_edited": "2021-08-26T13:28:04+00:00",
+      "created_by": "Ebru Tamer Uğur",
+      "edited_by": "Ebru Tamer Uğur",
+      "active": true,
+      "thumbnail": "https://mcusercontent.com/9f66693a03e03a575d19a73dc/template-screens/fe433eb0a4bcafba134d5e2033b6f039_10021489_screen.png",
+      "share_url": "",
+      "_links": [
+        {
+          "rel": "self",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021489",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Response.json"
+        },
+        {
+          "rel": "parent",
+          "href": "https://us1.api.mailchimp.com/3.0/templates",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        },
+        {
+          "rel": "delete",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021489",
+          "method": "DELETE"
+        },
+        {
+          "rel": "default-content",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021489/default-content",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Default-Content/Response.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        }
+      ]
+    },
+    {
+      "id": 10021485,
+      "type": "user",
+      "name": "Rezervasyon İptal",
+      "drag_and_drop": true,
+      "responsive": true,
+      "category": "",
+      "date_created": "2021-08-21T12:15:28+00:00",
+      "date_edited": "2021-08-26T13:08:36+00:00",
+      "created_by": "Ebru Tamer Uğur",
+      "edited_by": "Ebru Tamer Uğur",
+      "active": true,
+      "thumbnail": "https://mcusercontent.com/9f66693a03e03a575d19a73dc/template-screens/4cec75020065c1373b70caf0b8be4a3e_10021485_screen.png",
+      "share_url": "",
+      "_links": [
+        {
+          "rel": "self",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021485",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Response.json"
+        },
+        {
+          "rel": "parent",
+          "href": "https://us1.api.mailchimp.com/3.0/templates",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        },
+        {
+          "rel": "delete",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021485",
+          "method": "DELETE"
+        },
+        {
+          "rel": "default-content",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021485/default-content",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Default-Content/Response.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        }
+      ]
+    },
+    {
+      "id": 10021001,
+      "type": "user",
+      "name": "İletişim Merkezi Üzerinden Şifre Belirleme??",
+      "drag_and_drop": true,
+      "responsive": true,
+      "category": "",
+      "date_created": "2021-08-15T22:06:44+00:00",
+      "date_edited": "2021-08-26T14:07:49+00:00",
+      "created_by": "Ebru Tamer Uğur",
+      "edited_by": "Ebru Tamer Uğur",
+      "active": true,
+      "thumbnail": "https://mcusercontent.com/9f66693a03e03a575d19a73dc/template-screens/4a1e5cfc54cd9f79059e96898c68fcbc_10021001_screen.png",
+      "share_url": "",
+      "_links": [
+        {
+          "rel": "self",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021001",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Response.json"
+        },
+        {
+          "rel": "parent",
+          "href": "https://us1.api.mailchimp.com/3.0/templates",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        },
+        {
+          "rel": "delete",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021001",
+          "method": "DELETE"
+        },
+        {
+          "rel": "default-content",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10021001/default-content",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Default-Content/Response.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        }
+      ]
+    },
+    {
+      "id": 10020993,
+      "type": "user",
+      "name": "Teklifi e-posta Gönder",
+      "drag_and_drop": true,
+      "responsive": true,
+      "category": "",
+      "date_created": "2021-08-15T21:12:58+00:00",
+      "date_edited": "2021-08-26T12:17:24+00:00",
+      "created_by": "Ebru Tamer Uğur",
+      "edited_by": "Ebru Tamer Uğur",
+      "active": true,
+      "thumbnail": "https://mcusercontent.com/9f66693a03e03a575d19a73dc/template-screens/c03f26ed9a6f507cc277ce58a1f5bc57_10020993_screen.png",
+      "share_url": "",
+      "_links": [
+        {
+          "rel": "self",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10020993",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Response.json"
+        },
+        {
+          "rel": "parent",
+          "href": "https://us1.api.mailchimp.com/3.0/templates",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        },
+        {
+          "rel": "delete",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10020993",
+          "method": "DELETE"
+        },
+        {
+          "rel": "default-content",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10020993/default-content",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Default-Content/Response.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        }
+      ]
+    },
+    {
+      "id": 10020989,
+      "type": "user",
+      "name": "Şikayet",
+      "drag_and_drop": true,
+      "responsive": true,
+      "category": "",
+      "date_created": "2021-08-15T20:39:10+00:00",
+      "date_edited": "2021-08-26T12:43:18+00:00",
+      "created_by": "Ebru Tamer Uğur",
+      "edited_by": "Ebru Tamer Uğur",
+      "active": true,
+      "thumbnail": "https://mcusercontent.com/9f66693a03e03a575d19a73dc/template-screens/3ed47fc3a4b2c7ecbdbb9ea3fe9b3d9f_10020989_screen.png",
+      "share_url": "",
+      "_links": [
+        {
+          "rel": "self",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10020989",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Response.json"
+        },
+        {
+          "rel": "parent",
+          "href": "https://us1.api.mailchimp.com/3.0/templates",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        },
+        {
+          "rel": "delete",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10020989",
+          "method": "DELETE"
+        },
+        {
+          "rel": "default-content",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10020989/default-content",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Default-Content/Response.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        }
+      ]
+    },
+    {
+      "id": 10020977,
+      "type": "user",
+      "name": "Rezervasyon Değişikliği / Genel",
+      "drag_and_drop": true,
+      "responsive": true,
+      "category": "",
+      "date_created": "2021-08-15T19:54:48+00:00",
+      "date_edited": "2021-08-26T12:35:43+00:00",
+      "created_by": "Ebru Tamer Uğur",
+      "edited_by": "Ebru Tamer Uğur",
+      "active": true,
+      "thumbnail": "https://mcusercontent.com/9f66693a03e03a575d19a73dc/template-screens/866aadd266d4ee06734674663d0b6606_10020977_screen.png",
+      "share_url": "",
+      "_links": [
+        {
+          "rel": "self",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10020977",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Response.json"
+        },
+        {
+          "rel": "parent",
+          "href": "https://us1.api.mailchimp.com/3.0/templates",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        },
+        {
+          "rel": "delete",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10020977",
+          "method": "DELETE"
+        },
+        {
+          "rel": "default-content",
+          "href": "https://us1.api.mailchimp.com/3.0/templates/10020977/default-content",
+          "method": "GET",
+          "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/Default-Content/Response.json",
+          "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+        }
+      ]
+    }
+  ],
+  "total_items": 145,
+  "_links": [
+    {
+      "rel": "self",
+      "href": "https://us1.api.mailchimp.com/3.0/templates",
+      "method": "GET",
+      "targetSchema": "https://us1.api.mailchimp.com/schema/3.0/Definitions/Templates/CollectionResponse.json",
+      "schema": "https://us1.api.mailchimp.com/schema/3.0/Paths/Templates/Collection.json"
+    }
+  ]
+}
